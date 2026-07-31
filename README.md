@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BRAGUL007/LEET-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->

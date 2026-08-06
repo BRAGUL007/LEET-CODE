@@ -1,0 +1,1 @@
+const findMaxAverage=(e,t)=>{let l=0;for(let r=0;r<t;r++)l+=e[r];let r=l;for(let a=t;a<e.length;a++)l=l-e[a-t]+e[a],r=Math.max(r,l);return r/t};

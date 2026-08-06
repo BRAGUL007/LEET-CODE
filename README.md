@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BRAGUL007/LEET-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -50,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -73,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BRAGUL007/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BRAGUL007/LEET-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |

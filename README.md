@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/BRAGUL007/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BRAGUL007/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/BRAGUL007/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

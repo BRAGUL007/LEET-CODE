@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BRAGUL007/LEET-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0204-count-primes) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/BRAGUL007/LEET-CODE/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/BRAGUL007/LEET-CODE/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BRAGUL007/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BRAGUL007/LEET-CODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/BRAGUL007/LEET-CODE/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/BRAGUL007/LEET-CODE/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/BRAGUL007/LEET-CODE/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/BRAGUL007/LEET-CODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BRAGUL007/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BRAGUL007/LEET-CODE/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BRAGUL007/LEET-CODE/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |

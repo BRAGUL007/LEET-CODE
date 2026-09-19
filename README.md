@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BRAGUL007/LEET-CODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/BRAGUL007/LEET-CODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BRAGUL007/LEET-CODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BRAGUL007/LEET-CODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/BRAGUL007/LEET-CODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/BRAGUL007/LEET-CODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BRAGUL007/LEET-CODE/tree/master/0344-reverse-string) |
 ## Matrix
 |  |

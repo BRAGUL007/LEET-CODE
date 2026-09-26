@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BRAGUL007/LEET-CODE/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/BRAGUL007/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/BRAGUL007/LEET-CODE/tree/master/0704-binary-search) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BRAGUL007/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/BRAGUL007/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/BRAGUL007/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/BRAGUL007/LEET-CODE/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BRAGUL007/LEET-CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BRAGUL007/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BRAGUL007/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

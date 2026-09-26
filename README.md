@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/BRAGUL007/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/BRAGUL007/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/BRAGUL007/LEET-CODE/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2574-left-and-right-sum-differences](https://github.com/BRAGUL007/LEET-CODE/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BRAGUL007/LEET-CODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/BRAGUL007/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/BRAGUL007/LEET-CODE/tree/master/2574-left-and-right-sum-differences) |
 ## Quicksort
 |  |
 | ------- |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/BRAGUL007/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/BRAGUL007/LEET-CODE/tree/master/0704-binary-search) |
 | [1389-create-target-array-in-the-given-order](https://github.com/BRAGUL007/LEET-CODE/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/BRAGUL007/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BRAGUL007/LEET-CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/BRAGUL007/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/BRAGUL007/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
